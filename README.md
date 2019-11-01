@@ -26,13 +26,22 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+  Express is a Framework and provides a robust set of feature to build API
+
 - [ ] Describe Middleware?
+
+     It's a pipeline that acts as a bridge that provides extra features
 
 - [ ] Describe a Resource?
 
+	A resource is a source or supply  that has some utility
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+The API can return an HTTP status code to help clients know if a request was successful.
+
 - [ ] How can we partition our application into sub-applications?
+  We use module.exports to partition our application into sub-applications.
 
 ## Project Setup
 
